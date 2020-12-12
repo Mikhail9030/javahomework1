@@ -14,11 +14,10 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 
-1. Следующие ключи из списка валидных оказались не валидными:
-* 80b427f8-92cd-3aae-ba04-3927fbe17c6
-* 387eedc6-12e9-3b32-9881-63b6b5e85317
-2. Валидный из списка не валидных:
-2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
+1. https://github.com/Mikhail9030/javahomework1.1/issues/7#issue-764156384
+2. https://github.com/Mikhail9030/javahomework1.1/issues/8#issue-764163620
+3. https://github.com/Mikhail9030/javahomework1.1/issues/9#issue-764166786
+
 
 ## Описание процесса тестирования
 
